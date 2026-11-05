@@ -137,11 +137,12 @@ Hey! I'm **Vivek Vardhan**, a software engineering student from **Hyderabad, Ind
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekvardhanx&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekvardhanx&bg_color=0D1117&color=C9D1D9&line=06B6D4&point=A78BFA&area=false&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -151,11 +152,14 @@ Hey! I'm **Vivek Vardhan**, a software engineering student from **Hyderabad, Ind
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vivekvardhanx/vivekvardhanx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekvardhanx/vivekvardhanx/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekvardhanx/vivekvardhanx/output/github-snake-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vivekvardhanx/vivekvardhanx/output/github-snake-dark.svg" width="85%" alt="Subtle contribution snake"/>
+</picture>
 
 </div>
 
----
 
 ## 🤝 Connect With Me
 
